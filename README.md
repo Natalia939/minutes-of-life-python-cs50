@@ -20,10 +20,11 @@ This project demonstrates skills in **date handling**, **error checking**, and *
 Clone the repository and install the required dependency:
 
 ## ▶️ How to Run  
-git clone https://github.com/Natalia939/minutes-of-life.git
-cd minutes-of-life
-pip install -r requirements.txt
+1. git clone https://github.com/Natalia939/minutes-of-life.git
+2. cd minutes-of-life-python
+3. run the program: `python3 minutes.py`
 
+### No external dependencies required
 
 👩‍💻 Author: Nataliia Gvozdovska – Web Developer & Designer  
 Created on: February, 2025
