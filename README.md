@@ -4,7 +4,7 @@ A Python program that calculates how many **minutes** you’ve lived since your 
 This project demonstrates skills in **date handling**, **error checking**, and **natural language number conversion** using the `inflect` library.
 
 ---
-![Screenshot of the project](./screenshot1.png)
+![Screenshot of the project](./screenshot.png)
 
 ## 🚀 Features
 
