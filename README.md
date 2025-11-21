@@ -21,7 +21,7 @@ Clone the repository and install the required dependency:
 
 ## ▶️ How to Run  
 1. git clone https://github.com/Natalia939/minutes-of-life.git
-2. cd minutes-of-life-python
+2. cd minutes-of-life-python-cs50
 3. pip install -r requirements.txt
 4. run the program: `python3 minutes.py`
 
